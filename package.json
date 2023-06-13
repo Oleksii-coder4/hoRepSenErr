@@ -6,8 +6,8 @@
   "scripts": {
     "lint": "eslint ./src",
     "lint:fix": "eslint ./src --fix",
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "precommit": "lint-staged"
+    "precommit": "lint-staged",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
