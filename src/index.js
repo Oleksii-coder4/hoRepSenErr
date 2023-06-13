@@ -7,3 +7,6 @@ function foo(name) {
 console.log(a);
 
 let b = 'ds';
+var c = 'sdf'
+
+
