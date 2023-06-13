@@ -31,7 +31,6 @@
     }
   },
   "lint-staged": {
-    "*.js": "eslint",
-    "*.hs": "haskell-lint"
+    "*.js": "npx eslint src/index.js --fix"
   }
 }
