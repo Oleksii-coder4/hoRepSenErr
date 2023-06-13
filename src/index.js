@@ -11,6 +11,4 @@ let c = 'sdf';
 let as = '';
 var dsfds='s'
 
-
-
-var
+var    sdflksd='sdfsdfdsfsd   '
